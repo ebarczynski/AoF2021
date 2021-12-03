@@ -1,0 +1,117 @@
+[0m2021.12.02 23:22:35 INFO  Started: Metals version 0.10.9 in workspace '/home/ed/Documents/AoF2021/day2' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.02 23:22:36 INFO  time: initialize in 1.18s[0m
+[0m2021.12.02 23:22:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.02 23:22:37 WARN  no build target for: /home/ed/Documents/AoF2021/day2/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:22:38 WARN  no build target for: /home/ed/Documents/AoF2021/day2/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:22:39 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.02 23:22:42 INFO  time: code lens generation in 4.29s[0m
+[0m2021.12.02 23:22:42 INFO  time: code lens generation in 3.96s[0m
+[0m2021.12.02 23:22:52 INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /tmp/metals7180096026750759453/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.12.02 23:22:52 WARN  no build target for: /home/ed/Documents/AoF2021/day2/project/metals.sbt[0m
+[0m2021.12.02 23:22:52 WARN  no build target for: /home/ed/Documents/AoF2021/day2/project/project/metals.sbt[0m
+[0m2021.12.02 23:22:52 INFO  skipping build import with status 'Started'[0m
+[0m2021.12.02 23:22:53 INFO  [info] welcome to sbt 1.5.5 (Ubuntu Java 11.0.11)[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.02 23:22:54 ERROR scalafmt: /home/ed/Documents/AoF2021/day2/src/main/scala/Main.scala:8: error: [dialect default] expected class or object definition def
+def makeInt(s: String): Option[Int] = allCatch.opt(s.toInt)
+^[0m
+[0m2021.12.02 23:22:55 INFO  [info] loading settings for project day2-build-build from metals.sbt ...[0m
+[0m2021.12.02 23:22:55 INFO  [info] loading project definition from /home/ed/Documents/AoF2021/day2/project/project[0m
+[0m2021.12.02 23:22:57 INFO  [info] loading settings for project day2-build from metals.sbt ...[0m
+[0m2021.12.02 23:22:57 INFO  [info] loading project definition from /home/ed/Documents/AoF2021/day2/project[0m
+[0m2021.12.02 23:22:59 INFO  [success] Generated .bloop/day2-build.json[0m
+[0m2021.12.02 23:22:59 INFO  [success] Total time: 1 s, completed Dec 2, 2021, 11:22:59 PM[0m
+[0m2021.12.02 23:22:59 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.12.02 23:23:00 INFO  [info] set current project to day2 (in build file:/home/ed/Documents/AoF2021/day2/)[0m
+[0m2021.12.02 23:23:00 INFO  [success] Generated .bloop/root-test.json[0m
+[0m2021.12.02 23:23:00 INFO  [success] Generated .bloop/root.json[0m
+[0m2021.12.02 23:23:00 INFO  [success] Total time: 0 s, completed Dec 2, 2021, 11:23:00 PM[0m
+[0m2021.12.02 23:23:01 INFO  time: ran 'sbt bloopInstall' in 9.12s[0m
+[0m2021.12.02 23:23:01 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4021924412847444409/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from '/home/ed/Documents/AoF2021/day2/.bloop'...
+[0m[32m[D][0m Loading project from '/home/ed/Documents/AoF2021/day2/.bloop/root.json'
+[0m[32m[D][0m Loading project from '/home/ed/Documents/AoF2021/day2/.bloop/root-test.json'
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher4021924412847444409/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher4021924412847444409/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.02 23:23:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/bsp.trace.json[0m
+[0m2021.12.02 23:23:01 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher9132256690377898949/bsp.socket'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at local:///tmp/bsp-launcher9132256690377898949/bsp.socket...
+The server is listening for incoming connections at local:///tmp/bsp-launcher9132256690377898949/bsp.socket...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.02 23:23:01 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/bsp.trace.json[0m
+[0m2021.12.02 23:23:01 INFO  time: Connected to build server in 0.24s[0m
+[0m2021.12.02 23:23:01 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.02 23:23:01 INFO  Required scalafmt dialect rewrite to 'scala3'. Directories:
+- src/test/scala
+- src/main/scala[0m
+[0m2021.12.02 23:23:02 WARN  Could not find java sources in None. Java symbols will not be available.[0m
+[0m2021.12.02 23:23:04 INFO  time: indexed workspace in 3.16s[0m
+[0m2021.12.02 23:23:04 INFO  compiling root (1 scala source)[0m
+[0m2021.12.02 23:23:04 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.02 23:23:06 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.02 23:23:06 INFO  time: compiled root in 1.27s[0m
+[0m2021.12.02 23:23:06 INFO  time: compiled root-test in 0.87s[0m
+Dec 02, 2021 11:23:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+[0m2021.12.02 23:23:38 INFO  compiling root (1 scala source)[0m
+[0m2021.12.02 23:23:38 INFO  time: compiled root in 0.25s[0m
+[0m2021.12.02 23:24:02 WARN  Error downloading ch.epfl.scala:scala-expression-compiler_3.1.0:2.0.11
+  not found: /home/ed/.ivy2/local/ch.epfl.scala/scala-expression-compiler_3.1.0/2.0.11/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.1.0/2.0.11/scala-expression-compiler_3.1.0-2.0.11.pom[0m
+[0m2021.12.02 23:24:02 WARN  Expression evaluation will not work.[0m
+[0m2021.12.02 23:24:02 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-server.trace.json[0m
+[0m2021.12.02 23:24:02 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-client.trace.json[0m
+[0m2021.12.02 23:24:02 INFO  Starting debug proxy for [hello][0m
+[0m2021.12.02 23:24:02 INFO  Trying to attach to remote debuggee VM view-localhost:59239 .[0m
+[0m2021.12.02 23:24:02 INFO  Attaching to debuggee VM succeeded.[0m
+[0m2021.12.02 23:24:02 INFO  Canceling debug proxy for [hello][0m
+[0m2021.12.02 23:24:02 INFO  Closing debug server tcp://0.0.0.0:37009[0m
+[0m2021.12.02 23:24:05 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.02 23:24:05 INFO  time: compiled root-test in 46ms[0m
+[0m2021.12.02 23:24:05 WARN  Error downloading ch.epfl.scala:scala-expression-compiler_3.1.0:2.0.11
+  not found: /home/ed/.ivy2/local/ch.epfl.scala/scala-expression-compiler_3.1.0/2.0.11/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.1.0/2.0.11/scala-expression-compiler_3.1.0-2.0.11.pom[0m
+[0m2021.12.02 23:24:05 WARN  Expression evaluation will not work.[0m
+[0m2021.12.02 23:24:05 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-server.trace.json[0m
+[0m2021.12.02 23:24:05 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-client.trace.json[0m
+[0m2021.12.02 23:24:05 INFO  Starting debug proxy for [hello][0m
+[0m2021.12.02 23:24:05 INFO  Trying to attach to remote debuggee VM view-localhost:52985 .[0m
+[0m2021.12.02 23:24:05 INFO  Attaching to debuggee VM succeeded.[0m
+[0m2021.12.02 23:24:05 INFO  Canceling debug proxy for [hello][0m
+[0m2021.12.02 23:24:05 INFO  Closing debug server tcp://0.0.0.0:44719[0m
+[0m2021.12.02 23:24:13 INFO  Deduplicating compilation of root from bsp client 'Metals 0.10.9' (since 1m 12.227s)[0m
+[0m2021.12.02 23:24:13 INFO  compiling root-test (1 scala source)[0m
+[0m2021.12.02 23:24:13 INFO  time: compiled root-test in 37ms[0m
+[0m2021.12.02 23:24:13 WARN  Error downloading ch.epfl.scala:scala-expression-compiler_3.1.0:2.0.11
+  not found: /home/ed/.ivy2/local/ch.epfl.scala/scala-expression-compiler_3.1.0/2.0.11/ivys/ivy.xml
+  not found: https://repo1.maven.org/maven2/ch/epfl/scala/scala-expression-compiler_3.1.0/2.0.11/scala-expression-compiler_3.1.0-2.0.11.pom[0m
+[0m2021.12.02 23:24:13 WARN  Expression evaluation will not work.[0m
+[0m2021.12.02 23:24:13 INFO  tracing is disabled for protocol dap-server, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-server.trace.json[0m
+[0m2021.12.02 23:24:13 INFO  tracing is disabled for protocol dap-client, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/ed/.cache/metals/dap-client.trace.json[0m
+[0m2021.12.02 23:24:13 INFO  Starting debug proxy for [hello][0m
+[0m2021.12.02 23:24:13 INFO  Trying to attach to remote debuggee VM view-localhost:45425 .[0m
+[0m2021.12.02 23:24:13 INFO  Attaching to debuggee VM succeeded.[0m
+[0m2021.12.02 23:24:29 INFO  Canceling debug proxy for [hello][0m
+[0m2021.12.02 23:24:29 INFO  Closing debug server tcp://0.0.0.0:38425[0m
+[0m2021.12.02 23:24:47 INFO  shutting down Metals[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0mNo more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+2021.12.02 23:24:47 INFO  Shut down connection with build server.[0m
+[0m2021.12.02 23:24:47 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...

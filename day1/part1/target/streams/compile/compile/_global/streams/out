@@ -1,0 +1,43 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E007] Type Mismatch Error: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:20:48 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mval[0m [36mcount[0m = lines.flatMap(makeInt(_).getOrElse([31m0[0m)).sliding([31m2[0m,[31m1[0m).collect{[33mcase[0m Seq(a,b) => b - a}.toList.dropWhile(_ < [31m0[0m).count[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            [31m^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            Found:    Int[0m
+[0m[[0m[31merror[0m] [0m[0m   |                            Required: IterableOnce[Any][0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:20:93 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mval[0m [36mcount[0m = lines.flatMap(makeInt(_).getOrElse([31m0[0m)).sliding([31m2[0m,[31m1[0m).collect{[33mcase[0m Seq(a,b) => b - a}.toList.dropWhile(_ < [31m0[0m).count[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                           [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value - is not a member of Nothing, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |One of the following imports might fix the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2double[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2float[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2int[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2long[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2short[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2double[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2float[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2int[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2long[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import collection.convert.ImplicitConversions.properties AsScalaMap[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:20:117 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m20 |[0m  [33mval[0m [36mcount[0m = lines.flatMap(makeInt(_).getOrElse([31m0[0m)).sliding([31m2[0m,[31m1[0m).collect{[33mcase[0m Seq(a,b) => b - a}.toList.dropWhile(_ < [31m0[0m).count[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                                                                   [31m^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |value < is not a member of Nothing, but could be made available as an extension method.[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |One of the following imports might fix the problem:[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2double[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2float[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2int[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2long[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Byte.byte2short[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2double[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2float[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2int[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import Char.char2long[0m
+[0m[[0m[31merror[0m] [0m[0m   |  import concurrent.duration.Deadline.DeadlineIsOrdered.mkOrderingOps[0m
+[0m[[0m[31merror[0m] [0m[0m   |[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m

@@ -1,0 +1,1141 @@
+[0m2021.12.02 23:28:07 INFO  Started: Metals version 0.10.9 in workspace '/home/ed/Documents/AoF2021/day3' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.02 23:28:08 INFO  time: initialize in 1.27s[0m
+[0m2021.12.02 23:28:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.02 23:28:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:28:13 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.02 23:28:14 INFO  time: code lens generation in 3.06s[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.02 23:28:29 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:29 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:28:31 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:28:31 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:35 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:36 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:45 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:48 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:49 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:28:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:28:49 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:29:02 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:29:02 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:29:06 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:29:07 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:1: error: [dialect default] expected start of definition
+@main def hello: Unit = 
+      ^[0m
+[0m2021.12.02 23:29:07 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:29:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/build.sbt[0m
+Dec 02, 2021 11:29:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+[0m2021.12.02 23:29:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:40:12 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:40:35 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:42:20 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:42:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:42:41 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:57:45 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:17: error: [dialect scala3] ; expected but . found
+.flatMap()
+^[0m
+[0m2021.12.03 08:57:45 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:57:45 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:17: error: [dialect scala3] ; expected but . found
+.flatMap()
+^[0m
+[0m2021.12.03 08:57:51 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 08:59:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:01:35 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:04:18 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:04:39 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:07:08 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:19: error: [dialect scala3] ) expected but => found
+  val part_one_answer = part_two_lines.reduce(Seq(a,b) => a+b)
+                                                       ^[0m
+[0m2021.12.03 09:07:08 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:07:08 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:19: error: [dialect scala3] ) expected but => found
+  val part_one_answer = part_two_lines.reduce(Seq(a,b) => a+b)
+                                                       ^[0m
+[0m2021.12.03 09:07:43 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:07:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:08:08 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:08:22 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:10:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:10:18 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:11:03 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:9: error: [dialect scala3] ; expected but ) found
+  s.map((_.toString).map(makeInt)))
+                                  ^[0m
+[0m2021.12.03 09:11:03 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:11:10 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 9:33:58 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 03, 2021 9:34:00 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.03 09:34:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:34:20 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:34:40 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:34:51 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:36:16 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 9:36:18 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1915
+[0m2021.12.03 09:36:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:37:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:37:57 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:41:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:41:55 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:42:19 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:21: error: [dialect scala3] expected class or object definition identifier
+println(s"part_one_lines size: $part_one_lines_size")
+^[0m
+[0m2021.12.03 09:42:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:42:21 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:21: error: [dialect scala3] expected class or object definition identifier
+println(s"part_one_lines size: $part_one_lines_size")
+^[0m
+[0m2021.12.03 09:42:28 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:44:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 09:48:10 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:16:04 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:16:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:18:01 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:20: error: [dialect scala3] ) expected but if found
+  val part_one_answer = part_one_lines.transpose.map(_.sum).map(a => 1 if a > size / 2)
+                                                                       ^[0m
+[0m2021.12.03 11:18:01 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:19:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:21:42 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:22:34 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 11:23:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2965
+Dec 03, 2021 11:23:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2973
+Dec 03, 2021 11:23:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2997
+[0m2021.12.03 11:23:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:25:06 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:25:26 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:25:57 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:31:01 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:34:04 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:34:15 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:34:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:34:53 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:35:21 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:37:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:37:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:37:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:40:26 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:41:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:41:40 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:42:46 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:43:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:43:12 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:43:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:43:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:44:03 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:44:03 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:44:05 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Exception in thread "pool-3-thread-1" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-2" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-3" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-4" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-5" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-6" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-7" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-8" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-9" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-10" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.PcDefinitionProvider.definitions(PcDefinitionProvider.scala:59)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.definition$$anonfun$1(ScalaPresentationCompiler.scala:207)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-11" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-12" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-13" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-14" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Exception in thread "pool-3-thread-15" dotty.tools.dotc.core.TypeError: Toplevel definition <init> is defined in
+  /home/ed/Documents/AoF2021/day3/build.sbt
+and also in
+  /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala
+One of these files should be removed from the classpath.
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.dropStale$1(SymDenotations.scala:2439)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.recur$1(SymDenotations.scala:2403)
+	at dotty.tools.dotc.core.SymDenotations$PackageClassDenotation.computeMembersNamed(SymDenotations.scala:2459)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.membersNamed(SymDenotations.scala:2012)
+	at dotty.tools.dotc.core.SymDenotations$ClassDenotation.findMember(SymDenotations.scala:2063)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:683)
+	at dotty.tools.dotc.core.Types$Type.goThis$1(Types.scala:807)
+	at dotty.tools.dotc.core.Types$Type.go$1(Types.scala:700)
+	at dotty.tools.dotc.core.Types$Type.findMember(Types.scala:870)
+	at dotty.tools.dotc.core.Types$Type.memberBasedOnFlags(Types.scala:666)
+	at dotty.tools.dotc.core.Types$Type.member(Types.scala:650)
+	at dotty.tools.dotc.core.Types$Type.allMembers$$anonfun$1(Types.scala:1011)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:15)
+	at scala.runtime.function.JProcedure2.apply(JProcedure2.java:10)
+	at dotty.tools.dotc.core.Types$Type.memberDenots$$anonfun$1(Types.scala:916)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:15)
+	at scala.runtime.function.JProcedure1.apply(JProcedure1.java:10)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:937)
+	at scala.collection.immutable.BitmapIndexedSetNode.foreach(HashSet.scala:944)
+	at scala.collection.immutable.HashSet.foreach(HashSet.scala:944)
+	at dotty.tools.dotc.core.Types$Type.memberDenots(Types.scala:916)
+	at dotty.tools.dotc.core.Types$Type.allMembers(Types.scala:1011)
+	at scala.meta.internal.pc.IndexedContext$.accesibleMembers$1(IndexedContext.scala:127)
+	at scala.meta.internal.pc.IndexedContext$.scala$meta$internal$pc$IndexedContext$$$extractNames(IndexedContext.scala:184)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:77)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.IndexedContext$LazyWrapper.<init>(IndexedContext.scala:76)
+	at scala.meta.internal.pc.IndexedContext$.apply(IndexedContext.scala:65)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$9(ScalaPresentationCompiler.scala:335)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:341)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:137)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:125)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:197)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2021.12.03 11:49:45 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:50:02 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:50:18 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:50:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:51:04 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:51:37 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:52:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:52:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:52:55 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:53:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:53:30 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:53:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:55:56 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:57:17 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 11:59:29 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:03:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:03:34 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:03:47 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:04:04 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:08:56 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:26: error: [dialect scala3] ; expected but . found
+.sum
+^[0m
+[0m2021.12.03 12:08:56 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:09:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:11:46 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:12:10 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 12:12:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5662
+[0m2021.12.03 12:13:44 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:14:27 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:16:28 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:18:44 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:19:29 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:20:25 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:27: error: [dialect scala3] identifier expected but outdent found
+      .
+       ^[0m
+[0m2021.12.03 12:20:25 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:21:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:21:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:21:46 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:22:24 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:22:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:23:00 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Exception in thread "pool-3-thread-16" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:195)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:139)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[0m2021.12.03 12:24:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:24:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 12:25:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6837
+[0m2021.12.03 12:27:17 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] illegal start of simple expression
+  val epsilon_rate_raw = gamma_rate_raw.map(case '1' =>
+                                            ^[0m
+[0m2021.12.03 12:27:17 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:29:42 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:29:51 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:29:51 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:29:54 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:30:05 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:30:29 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] ) expected but integer constant found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.^ 1.toBinaryString)
+                                                      ^[0m
+[0m2021.12.03 12:30:29 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:30:38 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+Dec 03, 2021 12:31:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7449
+[0m2021.12.03 12:31:07 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:31:52 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:31:59 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:32:32 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:32:34 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:33:13 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:33:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:33:21 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:33:55 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:33:57 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:24 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] identifier expected but { found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.{case 0 => 1
+                                                    ^[0m
+[0m2021.12.03 12:39:24 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:25 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] identifier expected but { found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.{case 0 => 1
+                                                    ^[0m
+[0m2021.12.03 12:39:31 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] identifier expected but { found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.{case 0 => 1,
+                                                    ^[0m
+[0m2021.12.03 12:39:31 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:34 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] identifier expected but { found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.{case 0 => 1
+                                                    ^[0m
+[0m2021.12.03 12:39:34 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:44 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:33: error: [dialect scala3] { expected but case found
+  val epsilon_rate_raw = gamma_rate_raw.map(_.toInt.match case 0 => 1
+                                                          ^[0m
+[0m2021.12.03 12:39:44 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:47 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:50 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:39:54 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:40:44 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:40:51 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:41:05 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:34: error: [dialect scala3] { expected but _ found
+    .map(_.toInt.match _ {
+                       ^[0m
+[0m2021.12.03 12:41:05 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:41:18 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:41:37 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:41:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:43:14 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:43:19 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:43:21 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:43:21 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:43:54 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:34: error: [dialect scala3] match statement requires cases
+    .map(_ match {
+        ^[0m
+[0m2021.12.03 12:43:54 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:44:34 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:34: error: [dialect scala3] ; expected but ) found
+    .map(_.unary_!).toBinaryString)
+                                  ^[0m
+[0m2021.12.03 12:44:34 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:44:49 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:34: error: [dialect scala3] ; expected but ) found
+    .map(_.unary_!).toBinaryString)
+                                  ^[0m
+[0m2021.12.03 12:44:49 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:45:05 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:45:20 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:45:30 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:45:35 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:45:56 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 12:46:26 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:41:35 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:44:45 ERROR scalafmt: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala:13: error: [dialect scala3] illegal start of statement
+  .map(_.compareTo(false).toBinaryString)
+  ^[0m
+[0m2021.12.03 13:44:45 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:44:57 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:45:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:45:24 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:45:41 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:46:03 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:46:04 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:46:15 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:49:07 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 13:49:39 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:08:55 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:09:11 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:09:30 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:10:44 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:11:09 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:11:35 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:12:27 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:12:43 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:13:21 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:13:22 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:13:56 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:14:08 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:14:15 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:14:18 WARN  no build target for: /home/ed/Documents/AoF2021/day3/src/main/scala/Main.scala[0m
+[0m2021.12.03 14:14:29 INFO  shutting down Metals[0m
+[0m2021.12.03 14:14:29 ERROR Unexpected error initializing server
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:209)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:193)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+[0m

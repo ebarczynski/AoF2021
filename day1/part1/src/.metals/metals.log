@@ -1,0 +1,25 @@
+[0m2021.12.02 23:24:53 INFO  Started: Metals version 0.10.9 in workspace '/home/ed/Documents/AoF2021/day1/part1/src' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.02 23:24:55 INFO  time: initialize in 1.25s[0m
+[0m2021.12.02 23:24:55 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.02 23:24:55 WARN  no build tool detected in workspace '/home/ed/Documents/AoF2021/day1/part1/src'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.02 23:24:55 WARN  no build target for: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:24:57 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.02 23:25:00 INFO  time: code lens generation in 4.76s[0m
+[0m2021.12.02 23:25:00 INFO  time: code lens generation in 2.49s[0m
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.02 23:25:25 ERROR scalafmt: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:8: error: [dialect default] expected class or object definition def
+def makeInt(s: String): Option[Int] = allCatch.opt(s.toInt)
+^[0m
+[0m2021.12.02 23:25:25 WARN  no build target for: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:25:27 ERROR scalafmt: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:8: error: [dialect default] expected class or object definition def
+def makeInt(s: String): Option[Int] = allCatch.opt(s.toInt)
+^[0m
+[0m2021.12.02 23:25:29 ERROR scalafmt: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:8: error: [dialect default] expected class or object definition def
+def makeInt(s: String): Option[Int] = allCatch.opt(s.toInt)
+^[0m
+[0m2021.12.02 23:25:29 WARN  no build target for: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala[0m
+[0m2021.12.02 23:25:30 ERROR scalafmt: /home/ed/Documents/AoF2021/day1/part1/src/main/scala/Main.scala:8: error: [dialect default] expected class or object definition def
+def makeInt(s: String): Option[Int] = allCatch.opt(s.toInt)
+^[0m
+[0m2021.12.02 23:25:44 INFO  shutting down Metals[0m

@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/day2_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/hello.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/hello.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Direction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Direction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Direction.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Direction.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Direction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Direction$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Direction$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Direction$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Command$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Main$package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Command.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Main$package.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Main$package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Command.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ed/Documents/AoF2021/day2/target/scala-3.1.0/classes/Command.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
